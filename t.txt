@@ -1,3 +1,1 @@
-my file
-my file 1 change
-my file 1
+new file
